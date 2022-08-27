@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZakiHabtamu
 - 👀 I’m interested in Developing Softwares
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on with everyone
+- 💞️ I’m looking to collaborate on with everyone in ALX and others
 - 📫 How to reach me through my Slack account Zekarias Ayena, email zakihabtamu100@gmail.com
 
 <!---
